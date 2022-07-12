@@ -1,2 +1,2 @@
 # python
-Python scripts for personal use
+Python learning & scripts for personal use
